@@ -1,5 +1,5 @@
 # PizzeriaWeb
-progetto di Gaia Lamensa menù pizzeria
+progetto di Gaia Lamensa, Alessandra De Franco e Andrea Parrotta menù pizzeria
 ogni sviluppatore deve aggiungere due portate nel proprio menù:
 -sviluppatore a: assegnato al menù pizze
 -sviluppatore b: assegnato al menù dolci
